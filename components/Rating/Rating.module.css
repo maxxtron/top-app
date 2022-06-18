@@ -1,0 +1,13 @@
+.rating {
+	margin-right: 5px;
+}
+
+.ratingIco path {
+	fill: #E2E2E2;
+
+	cursor: pointer;
+}
+
+.filled {
+	fill: var(--primary);
+}
